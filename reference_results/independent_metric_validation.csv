@@ -1,0 +1,178 @@
+experiment,seed,model,valid
+L15_H30,13,Logistic Regression,True
+L15_H30,13,Random Forest,True
+L15_H30,13,Gradient Boosting,True
+L15_H30,13,LSTM,True
+L15_H30,13,RF-LSTM,True
+L15_H30,37,Logistic Regression,True
+L15_H30,37,Random Forest,True
+L15_H30,37,Gradient Boosting,True
+L15_H30,37,LSTM,True
+L15_H30,37,RF-LSTM,True
+L15_H30,73,Logistic Regression,True
+L15_H30,73,Random Forest,True
+L15_H30,73,Gradient Boosting,True
+L15_H30,73,LSTM,True
+L15_H30,73,RF-LSTM,True
+L30_H10,13,Logistic Regression,True
+L30_H10,13,Random Forest,True
+L30_H10,13,Gradient Boosting,True
+L30_H10,13,LSTM,True
+L30_H10,13,RF-LSTM,True
+L30_H10,37,Logistic Regression,True
+L30_H10,37,Random Forest,True
+L30_H10,37,Gradient Boosting,True
+L30_H10,37,LSTM,True
+L30_H10,37,RF-LSTM,True
+L30_H10,73,Logistic Regression,True
+L30_H10,73,Random Forest,True
+L30_H10,73,Gradient Boosting,True
+L30_H10,73,LSTM,True
+L30_H10,73,RF-LSTM,True
+L30_H20,13,Logistic Regression,True
+L30_H20,13,Random Forest,True
+L30_H20,13,Gradient Boosting,True
+L30_H20,13,LSTM,True
+L30_H20,13,RF-LSTM,True
+L30_H20,37,Logistic Regression,True
+L30_H20,37,Random Forest,True
+L30_H20,37,Gradient Boosting,True
+L30_H20,37,LSTM,True
+L30_H20,37,RF-LSTM,True
+L30_H20,73,Logistic Regression,True
+L30_H20,73,Random Forest,True
+L30_H20,73,Gradient Boosting,True
+L30_H20,73,LSTM,True
+L30_H20,73,RF-LSTM,True
+L30_H30,13,Logistic Regression,True
+L30_H30,13,Random Forest,True
+L30_H30,13,Gradient Boosting,True
+L30_H30,13,LSTM,True
+L30_H30,13,RF-LSTM,True
+L30_H30,13,Fusion without RF,True
+L30_H30,13,Fusion without LSTM,True
+L30_H30,13,RF without cycle descriptors,True
+L30_H30,13,Logistic Regression without cycle descriptors,True
+L30_H30,37,Logistic Regression,True
+L30_H30,37,Random Forest,True
+L30_H30,37,Gradient Boosting,True
+L30_H30,37,LSTM,True
+L30_H30,37,RF-LSTM,True
+L30_H30,37,Fusion without RF,True
+L30_H30,37,Fusion without LSTM,True
+L30_H30,37,RF without cycle descriptors,True
+L30_H30,37,Logistic Regression without cycle descriptors,True
+L30_H30,73,Logistic Regression,True
+L30_H30,73,Random Forest,True
+L30_H30,73,Gradient Boosting,True
+L30_H30,73,LSTM,True
+L30_H30,73,RF-LSTM,True
+L30_H30,73,Fusion without RF,True
+L30_H30,73,Fusion without LSTM,True
+L30_H30,73,RF without cycle descriptors,True
+L30_H30,73,Logistic Regression without cycle descriptors,True
+L30_H30_without_FD001,13,Logistic Regression,True
+L30_H30_without_FD001,13,Random Forest,True
+L30_H30_without_FD001,13,Gradient Boosting,True
+L30_H30_without_FD001,13,LSTM,True
+L30_H30_without_FD001,13,RF-LSTM,True
+L30_H30_without_FD001,37,Logistic Regression,True
+L30_H30_without_FD001,37,Random Forest,True
+L30_H30_without_FD001,37,Gradient Boosting,True
+L30_H30_without_FD001,37,LSTM,True
+L30_H30_without_FD001,37,RF-LSTM,True
+L30_H30_without_FD001,73,Logistic Regression,True
+L30_H30_without_FD001,73,Random Forest,True
+L30_H30_without_FD001,73,Gradient Boosting,True
+L30_H30_without_FD001,73,LSTM,True
+L30_H30_without_FD001,73,RF-LSTM,True
+L30_H30_without_FD002,13,Logistic Regression,True
+L30_H30_without_FD002,13,Random Forest,True
+L30_H30_without_FD002,13,Gradient Boosting,True
+L30_H30_without_FD002,13,LSTM,True
+L30_H30_without_FD002,13,RF-LSTM,True
+L30_H30_without_FD002,37,Logistic Regression,True
+L30_H30_without_FD002,37,Random Forest,True
+L30_H30_without_FD002,37,Gradient Boosting,True
+L30_H30_without_FD002,37,LSTM,True
+L30_H30_without_FD002,37,RF-LSTM,True
+L30_H30_without_FD002,73,Logistic Regression,True
+L30_H30_without_FD002,73,Random Forest,True
+L30_H30_without_FD002,73,Gradient Boosting,True
+L30_H30_without_FD002,73,LSTM,True
+L30_H30_without_FD002,73,RF-LSTM,True
+L30_H30_without_FD003,13,Logistic Regression,True
+L30_H30_without_FD003,13,Random Forest,True
+L30_H30_without_FD003,13,Gradient Boosting,True
+L30_H30_without_FD003,13,LSTM,True
+L30_H30_without_FD003,13,RF-LSTM,True
+L30_H30_without_FD003,37,Logistic Regression,True
+L30_H30_without_FD003,37,Random Forest,True
+L30_H30_without_FD003,37,Gradient Boosting,True
+L30_H30_without_FD003,37,LSTM,True
+L30_H30_without_FD003,37,RF-LSTM,True
+L30_H30_without_FD003,73,Logistic Regression,True
+L30_H30_without_FD003,73,Random Forest,True
+L30_H30_without_FD003,73,Gradient Boosting,True
+L30_H30_without_FD003,73,LSTM,True
+L30_H30_without_FD003,73,RF-LSTM,True
+L30_H30_without_FD004,13,Logistic Regression,True
+L30_H30_without_FD004,13,Random Forest,True
+L30_H30_without_FD004,13,Gradient Boosting,True
+L30_H30_without_FD004,13,LSTM,True
+L30_H30_without_FD004,13,RF-LSTM,True
+L30_H30_without_FD004,37,Logistic Regression,True
+L30_H30_without_FD004,37,Random Forest,True
+L30_H30_without_FD004,37,Gradient Boosting,True
+L30_H30_without_FD004,37,LSTM,True
+L30_H30_without_FD004,37,RF-LSTM,True
+L30_H30_without_FD004,73,Logistic Regression,True
+L30_H30_without_FD004,73,Random Forest,True
+L30_H30_without_FD004,73,Gradient Boosting,True
+L30_H30_without_FD004,73,LSTM,True
+L30_H30_without_FD004,73,RF-LSTM,True
+L30_H40,13,Logistic Regression,True
+L30_H40,13,Random Forest,True
+L30_H40,13,Gradient Boosting,True
+L30_H40,13,LSTM,True
+L30_H40,13,RF-LSTM,True
+L30_H40,37,Logistic Regression,True
+L30_H40,37,Random Forest,True
+L30_H40,37,Gradient Boosting,True
+L30_H40,37,LSTM,True
+L30_H40,37,RF-LSTM,True
+L30_H40,73,Logistic Regression,True
+L30_H40,73,Random Forest,True
+L30_H40,73,Gradient Boosting,True
+L30_H40,73,LSTM,True
+L30_H40,73,RF-LSTM,True
+L30_H50,13,Logistic Regression,True
+L30_H50,13,Random Forest,True
+L30_H50,13,Gradient Boosting,True
+L30_H50,13,LSTM,True
+L30_H50,13,RF-LSTM,True
+L30_H50,37,Logistic Regression,True
+L30_H50,37,Random Forest,True
+L30_H50,37,Gradient Boosting,True
+L30_H50,37,LSTM,True
+L30_H50,37,RF-LSTM,True
+L30_H50,73,Logistic Regression,True
+L30_H50,73,Random Forest,True
+L30_H50,73,Gradient Boosting,True
+L30_H50,73,LSTM,True
+L30_H50,73,RF-LSTM,True
+L60_H30,13,Logistic Regression,True
+L60_H30,13,Random Forest,True
+L60_H30,13,Gradient Boosting,True
+L60_H30,13,LSTM,True
+L60_H30,13,RF-LSTM,True
+L60_H30,37,Logistic Regression,True
+L60_H30,37,Random Forest,True
+L60_H30,37,Gradient Boosting,True
+L60_H30,37,LSTM,True
+L60_H30,37,RF-LSTM,True
+L60_H30,73,Logistic Regression,True
+L60_H30,73,Random Forest,True
+L60_H30,73,Gradient Boosting,True
+L60_H30,73,LSTM,True
+L60_H30,73,RF-LSTM,True

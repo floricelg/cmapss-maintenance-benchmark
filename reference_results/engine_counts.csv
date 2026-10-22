@@ -1,0 +1,9 @@
+subset,partition,raw_engines,retained_engines,window_engines,short_engines,windows,positives
+FD001,train,100,100,100,0,3586,623
+FD001,test,100,100,100,0,2079,65
+FD002,train,260,260,260,0,9338,1604
+FD002,test,259,259,253,6,5399,212
+FD003,train,100,100,100,0,4406,621
+FD003,test,100,100,100,0,2777,60
+FD004,train,249,249,249,0,10901,1543
+FD004,test,248,248,237,11,6917,178
