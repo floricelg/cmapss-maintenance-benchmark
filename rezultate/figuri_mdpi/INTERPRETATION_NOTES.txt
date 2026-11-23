@@ -1,0 +1,8 @@
+All outputs use L30/H30 and held-out test predictions from three seeds.
+PR curves show seed 13 only; AUPRC tables report all three seeds.
+Fixed-threshold decision map uses held-out results DESCRIPTIVELY, not for selecting a model.
+Cost analysis chooses each threshold on validation, then evaluates on held-out test.
+Cost ratios are hypothetical, not empirically measured maintenance costs.
+False alarms and missed positives count WINDOW-LEVEL predictions, not unique engine events.
+Seeds share the same benchmark; they are not independent external datasets.
+No real-world validation or new fusion architecture is claimed.
