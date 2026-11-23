@@ -1,0 +1,7 @@
+{
+  "best_epoch": 16,
+  "epochs_run": 21,
+  "best_validation_loss": 0.2765823100742541,
+  "seconds": 44.05579390004277,
+  "parameters": 8369
+}

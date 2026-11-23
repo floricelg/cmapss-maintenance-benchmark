@@ -1,0 +1,9 @@
+{
+  "experiment": "L15_H30",
+  "seed": 37,
+  "train_windows": 24507,
+  "validation_windows": 5851,
+  "test_windows": 19281,
+  "seconds": 100.15929690003395,
+  "ablation": false
+}

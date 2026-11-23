@@ -1,0 +1,9 @@
+{
+  "experiment": "L30_H30_without_FD001",
+  "seed": 13,
+  "train_windows": 19729,
+  "validation_windows": 4916,
+  "test_windows": 2079,
+  "seconds": 128.08113169996068,
+  "ablation": false
+}

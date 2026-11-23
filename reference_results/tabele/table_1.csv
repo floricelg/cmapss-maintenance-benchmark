@@ -1,0 +1,5 @@
+Subset,Raw train engines,Raw test engines,Window train engines,Window test engines,Short test engines,Train windows,Test windows,Test positives
+FD001,100,100,100,100,0,3586,2079,65
+FD002,260,259,260,253,6,9338,5399,212
+FD003,100,100,100,100,0,4406,2777,60
+FD004,249,248,249,237,11,10901,6917,178
